@@ -1,0 +1,9 @@
+[debug] [2022-03-09T06:00:59.429Z] : 
+[debug] [2022-03-09T06:00:59.430Z] : ----------------------------------------------------------------------
+[debug] [2022-03-09T06:00:59.431Z] : Command:      C:\Program Files\nodejs\node.exe C:\Users\User\AppData\Roaming\npm\node_modules\zcatalyst-cli\lib\bin\catalyst.js serve
+[debug] [2022-03-09T06:00:59.431Z] : CLI Version:  1.12.1
+[debug] [2022-03-09T06:00:59.431Z] : Platform:     win32
+[debug] [2022-03-09T06:00:59.432Z] : Node Version: v16.14.0
+[debug] [2022-03-09T06:00:59.433Z] : Time:         Wed Mar 09 2022 12:00:59 GMT+0600 (Bangladesh Standard Time)
+[debug] [2022-03-09T06:00:59.433Z] : ----------------------------------------------------------------------
+[debug] [2022-03-09T06:00:59.433Z] : 

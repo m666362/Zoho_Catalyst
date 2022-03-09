@@ -1,0 +1,29 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "12185000000004001",
+      "name": "Rayhan",
+      "domain": {
+        "id": "10038961678",
+        "name": "rayhan-773560889.development"
+      },
+      "env": [
+        {
+          "idx": 1,
+          "id": "773560889",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

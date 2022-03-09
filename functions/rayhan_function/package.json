@@ -1,0 +1,9 @@
+{
+	"name": "rayhan_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "raihan@instawebworks.com.au",
+	"dependencies": {
+		"zcatalyst-sdk-node": "latest"
+	}
+}
